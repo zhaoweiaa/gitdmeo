@@ -1,1 +1,2 @@
 hello world!
+second day for learning git
